@@ -11,7 +11,7 @@ Secondly, the dynamic response of the structure to external loads is computed, b
 ### 3.
 Thirdly, the model is reduced for solving with Guyan-Irons’ and Craig-Bampton’s methods.
 
-========================================================================================
+---
 
 Part of the Theory of vibrations course at the University of Liege.
 
